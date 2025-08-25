@@ -4,7 +4,7 @@
     "": {
       "name": "gunshi-arg-config-typecheck",
       "dependencies": {
-        "gunshi": "0.26.3",
+        "gunshi": "0.27.0-alpha.9",
       },
       "devDependencies": {
         "@biomejs/biome": "2.2.2",
@@ -255,7 +255,7 @@
 
     "argparse": ["argparse@2.0.1", "", {}, "sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q=="],
 
-    "args-tokens": ["args-tokens@0.20.1", "", {}, "sha512-pQ5R5TsJyx94zsgSCCQ9kzOgUfMmI4bkqNjgSSt2C92mzPCvovoUMMW6HqR+35mHZ0cb1++MD2uAOLm62sGC+Q=="],
+    "args-tokens": ["args-tokens@0.22.6", "", {}, "sha512-Q28D+oCfm3FGRNcHLJ+jkqOgaWsN5zl2uU5hd0x4EAuHnWO1ADJ3Ae8oK6QWF0rqkClQBGxh4pMLTgK2yifEmA=="],
 
     "aria-query": ["aria-query@5.3.2", "", {}, "sha512-COROpnaoap1E2F000S62r6A60uHZnmlvomhfyT2DlTcrY1OrBKn2UhH7qn5wTC9zMvD0AY7csdPSNwKP+7WiQw=="],
 
@@ -483,7 +483,7 @@
 
     "graphemer": ["graphemer@1.4.0", "", {}, "sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag=="],
 
-    "gunshi": ["gunshi@0.26.3", "", { "dependencies": { "args-tokens": "^0.20.1" } }, "sha512-x/CaxovzDA3KMkrjqow7M1dnsO1CxGMNabBaeGTGdVNtjOMN1G/eK7vjKeJ+zHdFIsWHmo47YQ2DQIESUut2+A=="],
+    "gunshi": ["gunshi@0.27.0-alpha.9", "", { "dependencies": { "args-tokens": "^0.22.0" } }, "sha512-6q4Hh2DernNjPm7kXoWPVNrsvEFbAjzWGAEzi95loAqS4Bv/8aylud69QDqCW1WqXtZ8NPayuPkJovdKC5/SJg=="],
 
     "has-bigints": ["has-bigints@1.1.0", "", {}, "sha512-R3pbpkcIqv2Pm3dUwgjclDRVmWpTJW2DcMzcIhEXEx1oh/CEMObMm3KLmRJOdvhM7o4uQBnwr8pzRK2sJWIqfg=="],
 
