@@ -2,6 +2,8 @@
 
 A proof of concept for automatically generating CLI argument schemas from nested configuration objects using TypeScript's advanced type system.
 
+note(JA): https://zenn.dev/sushichaaaan/scraps/6d6cdf613d91cf
+
 ## Overview
 
 Combines with the Gunshi CLI framework to achieve type-safe mapping from object types to flat CLI arguments.
