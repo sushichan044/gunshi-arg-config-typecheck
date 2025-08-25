@@ -1,0 +1,27 @@
+{
+  "name": "gunshi-arg-config-typecheck",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --max-warnings 0 --fix .",
+    "format": "biome format --write .",
+    "format:check": "biome format . --reporter=github",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.2.2",
+    "@types/bun": "latest",
+    "@types/mdast": "4.0.4",
+    "@virtual-live-lab/eslint-config": "2.2.24",
+    "@virtual-live-lab/tsconfig": "2.1.21",
+    "eslint": "9.34.0",
+    "typescript": "5.9.2",
+    "vitest": "3.2.4"
+  },
+  "dependencies": {
+    "gunshi": "0.26.3"
+  },
+  "packageManager": "bun@1.2.20"
+}
